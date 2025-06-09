@@ -1,5 +1,5 @@
 # Telegram Weather Bot with Admin Panel
-### TELEGRAM HANDLE - [@myskynews247bot](t.me/myskynews247bot)
+### TELEGRAM HANDLE - [@myskynews247bot](https://t.me/myskynews247bot)
 A Telegram bot built with Node.js that allows users to subscribe to daily weather updates. It also features a web-based admin panel to manage bot settings (API keys) and user accounts (block/delete users).
 
 ---
