@@ -6,7 +6,6 @@ import requests
 
 async def start(update : Update, context: ContextTypes.DEFAULT_TYPE):
     user = update.effective_user
-    print(user)
     await update.message.reply_text(
         f"""
         🌤️ Hello {user.first_name}!

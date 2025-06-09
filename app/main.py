@@ -17,7 +17,7 @@ bot_app = None
 
 async def daily_weather(bot_app):
     while True:
-        await asyncio.sleep(6)
+        await asyncio.sleep(43200)
         print(">>>>>>>>>>>>>>>>>>>>>>>>>>>")
         users = database.all_users()
         apikey = "3ae6527032cc4a0f623ec1810c878fde"
